@@ -1,9 +1,9 @@
 /**
- * #11 静的メンバを使ってみよう
+ * #12 静的メンバを使ってみよう
  *
  * @example
  * $ cd /vagrant/typescript_lessons/
- * $ cd 11_静的メンバを使ってみよう/
+ * $ cd 12_静的メンバを使ってみよう/
  * $ tsc main.ts
  * $ node main.js
  */
