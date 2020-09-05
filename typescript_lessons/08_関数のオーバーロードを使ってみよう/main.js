@@ -4,7 +4,7 @@
  *
  * @example
  * $ cd /vagrant/typescript_lessons/
- * $ cd 07_関数のオーバーロードを使ってみよう
+ * $ cd 08_関数のオーバーロードを使ってみよう
  * $ tsc main.ts
  * $ node main.js
  */
